@@ -2,11 +2,16 @@
 
 Hi Sir,
 
-I have completed the technical tasks assigned for the DesignerxTask2 project. You can find the solutions in the following GitHub repository and the live backend API link:
+I have completed the technical tasks assigned for the DesignerxTask2 project. You can find the solutions in the following GitHub repository:
 
 ## Repository
 
 - **GitHub Repository:** [DesignerxTask2](https://github.com/ghshivamkashyap/DesignerxTask2)
+
+## File Structure
+
+- **DSA Solutions:** Located in `fizzbuzz.js` file in the root directory.
+- **React Application:** Located in the `react-app` folder.
 
 ## Installation
 
@@ -27,7 +32,12 @@ To install and run this project locally, follow these steps:
     npm install
     ```
 
-4. Start the application:
+4. Navigate to the React application directory:
+    ```bash
+    cd react-app
+    ```
+
+5. Start the React application:
     ```bash
     npm start
     ```
